@@ -1,5 +1,7 @@
-Concrete Mod
+[OUTDATED] Concrete Mod
 ============
+
+**Due to the fact I created this mod 4 years ago as an amateur with no plan to update, I DO NOT recommended touching this mod with a ten-foot pole.**
 
 Adds red, green, blue, yellow, white, black and smiley concrete to Minetest. 
 
